@@ -4,6 +4,6 @@ Esse é um aplicativo com rotas de rios, coletas e parametros utilizando a tecno
 Ainda deve-se inserir o arquivo init no banco de dados. 
 
 Para fazer rodar deve-se entrar no diretorio do app e inserir o comando: python -m uvicorn main:app --reload
-Instalar o requiremnets.txt tambem com: python pip install -r requirements.txt
+Instalar o requiremnets.txt tambem com: python -m pip install -r requirements.txt
 
 Esta API serve de base para o front mobile de teste app_0_react_native
